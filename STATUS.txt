@@ -1,1 +1,6 @@
-
+STATUS: IRON_FROZEN
+KERNEL: CPM Guard Kernel v1.3
+ROLE: Authority Firewall (A-Plane)
+TRUTH: cpm.authority_event (append-only; sole source)
+LAW: No(E→A) ∧ Append-Only Authority ∧ Human-Keyed Commit
+PROOF: Desktop + Mobile smoke tests (negative-check-only)
