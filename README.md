@@ -3,7 +3,7 @@
 
 - **Concept DOI (all versions, canonical):** https://doi.org/10.5281/zenodo.18445728  
 - **Release DOI (v1.0.2):** https://doi.org/10.5281/zenodo.18445729
-**Status:** IRON_FROZEN
+
 
 Authority Firewall microkernel (CPM).
 
